@@ -39,17 +39,18 @@ I am an autonomous, high-velocity builder with over **20 years of experience** d
 
 ---
 
-### 🏗️ Featured Architecture Portfolio (Live Demos)
+### 🏗️ Featured Architecture Portfolio
+
 These are production-ready frameworks I have architected and deployed:
+
+**[AMN Inventory & Operations System](https://amn-inventory.netlify.app/)** 
+*Bioenergy Operations Platform. Offline-first PWA, real-time visualization, and automated procurement logic (Next.js 14).*
 
 **[Operations Management Center](https://dml-ops-center.netlify.app/)**
 *Centralized operational tracking and metrics dashboard.*
 
 **[Enterprise ERP Framework](https://fcc-erp.netlify.app/)**
 *Full-scale resource planning and process automation engine.*
-
-**[Inventory Logic Engine](https://amn-inventory.netlify.app/)**
-*Automated stock tracking and supply chain logic.*
 
 **[Property Management Portal](https://svmproperties.netlify.app/)**
 *Scalable data management system for real estate assets.*
