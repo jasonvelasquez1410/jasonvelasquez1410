@@ -46,6 +46,9 @@ These are production-ready frameworks I have architected and deployed:
 **[Disciple Brew: AI Sales Assistant](https://messenger-ai-fullstack-disciplebrew.vercel.app/)** 
 full-stack Messenger-inspired AI receptionist. Features a custom 'Faith' persona, automated customer engagement, and seamless Gemini 1.5 Flash integration (React & FastAPI).
 
+**[Sethcon Lead Hunter: AI Prospecting Tool](https://sethcon-lead-hunter.netlify.app/)**
+*High-velocity lead discovery engine. Features an AI Neural Scanner to identify automation gaps, priority-based lead scoring, and automated "Sniper" pitch generation.*
+
 **[AMN Inventory & Operations System](https://amn-inventory.netlify.app/)** 
 *Bioenergy Operations Platform. Offline-first PWA, real-time visualization, and automated procurement logic (Next.js 14).*
 
