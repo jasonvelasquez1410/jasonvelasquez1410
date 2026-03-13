@@ -42,6 +42,7 @@ I am an autonomous, high-velocity builder with over **20 years of experience** d
 ### 🏗️ Featured Architecture Portfolio
 
 These are production-ready frameworks I have architected and deployed:
+
 **[Disciple Brew: AI Sales Assistant](https://messenger-ai-fullstack-disciplebrew.vercel.app/)** 
 full-stack Messenger-inspired AI receptionist. Features a custom 'Faith' persona, automated customer engagement, and seamless Gemini 1.5 Flash integration (React & FastAPI).
 
