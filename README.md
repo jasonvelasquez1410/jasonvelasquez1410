@@ -39,7 +39,7 @@ I am an autonomous, high-velocity builder with over **20 years of experience** d
 
 ---
 
-### 🏗️ Featured Architecture Portfolio
+<!-- ### 🏗️ Featured Architecture Portfolio
 
 These are production-ready frameworks I have architected and deployed:
 
@@ -73,4 +73,5 @@ full-stack Messenger-inspired AI receptionist. Features a custom 'Faith' persona
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonjeff-velasquez)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jason.velasquez1410@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jason.velasquez1410@gmail.com) 
+-->
